@@ -3,7 +3,7 @@
     "latestVersionCode": 999999999,
     "latestVersion": "383.1.0.48.78",
     "url": "https://t.me/SpoilerTech",
-    "forceUpdate": true,
+    "forceUpdate": false,
     "style": 3,
     "dateSystem": false,
     "expiryDate": "July-2-2025",
