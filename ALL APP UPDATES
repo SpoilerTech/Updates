@@ -5,7 +5,7 @@
     "url": "https://t.me/SpoilerTech",
     "forceUpdate": true,
     "style": 3,
-    "dateSystem": false,
+    "dateSystem": true,
     "expiryDate": "July-2-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
