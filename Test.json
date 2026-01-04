@@ -7,7 +7,7 @@
   "disabled_versions": [5],
   "update_title": "New Update Available!",
   "update_message": "InstaZen v10 is now available with amazing new features!",
-  "changelog_url": "https://raw.githubusercontent.com/yourusername/repo/main/changelog.json",
+  "changelog_url": "https://raw.githubusercontent.com/SpoilerTech/Updates/refs/heads/main/changelog.json",
   "show_update_popup": true,
   "maintenance_mode": false,
   "maintenance_message": "Server under maintenance. Please try again later."
