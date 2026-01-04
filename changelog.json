@@ -2,20 +2,27 @@
   "versions": [
     {
       "version": "v10",
-      "date": "2024-01-15",
+      "date": "2025-01-15",
       "changes": [
-        "• New AI-powered features",
+        "• New update system added",
         "• Performance improvements",
         "• Bug fixes"
       ]
     },
     {
       "version": "v9",
-      "date": "2024-01-01",
+      "date": "2025-01-01",
       "changes": [
         "• Added dark mode",
         "• New emoji picker",
         "• Fixed crashes"
+      ]
+    },
+    {
+      "version": "v1",
+      "date": "2024-06-01",
+      "changes": [
+        "• Initial release"
       ]
     }
   ]
