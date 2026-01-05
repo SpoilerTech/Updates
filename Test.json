@@ -2,7 +2,7 @@
   "latest_version": "v10",
   "latest_version_code": 10,
   "download_url": "https://your-download-link.com/instazen_v10.apk",
-  "force_update": false,
+  "force_update": true,
   "force_same_version_update": false,
   "force_update_versions": [],
   "min_version_code": 1,
