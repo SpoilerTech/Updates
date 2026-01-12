@@ -1,17 +1,14 @@
 {
-  "latest_version": "v2",
-  "latest_version_code": 2,
+  "latest_version": "v10",
+  "latest_version_code": 10,
   "download_url": "https://t.me/STinsta_official",
-  "force_update": false,
-  "force_same_version_update": false,
-  "force_update_versions": [],
-  "min_version_code": 1,
-  "disabled_versions": [],
+
+  "force_update": true,
   "show_update_popup": true,
+  "hide_update_popup_versions": [4,7],
+
   "update_title": "New Update Available!",
-  "update_message": "InstaZen v10 is now available with amazing new features!",
-  "changelog_url": "https://raw.githubusercontent.com/SpoilerTech/Updates/refs/heads/main/changelog.json",
-  "show_changelog_once": false,
-  "maintenance_mode": false,
-  "maintenance_message": "Server under maintenance. Please try again later."
+  "update_message": "Please update to continue using the app",
+
+  "changelog_url": "https://raw.githubusercontent.com/SpoilerTech/Updates/main/changelog.json"
 }
